@@ -188,6 +188,6 @@ Update-Database
 
 ## 🧑‍💻 Author
 
-**Rabindra Nath Chanda**
+**Davon William**
 .NET & Angular Developer
-📍 Kolkata, India
+📍 New York, US
